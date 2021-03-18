@@ -1,0 +1,39 @@
+.calculator{
+	border: 6px solid grey;
+	width: 300px;
+	border-radius: 8px;
+	margin: 0 auto;
+	padding: 17px;
+	text-align: center;
+}
+.numbers button{
+	font-size: 33px;
+	padding:7px;
+	margin: 4px;
+	width: 88px;
+}
+.number{
+	width: 55px !important;
+
+}
+.function{
+	width: 70px;
+}
+.calc{
+	width: 155px !important;
+	
+	
+}
+
+    
+
+input{
+	font-size: 21px;
+	padding: 5px 0;
+	font-weight: bold;
+	text-align: right;
+}
+
+#tochka{
+	width: 55px;
+}
